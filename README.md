@@ -13,8 +13,7 @@ Chuck Phillips
 jQuery is covered showing examples of usage and how it can simplify programming. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://phillips001.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. An introduction to jQuery.
